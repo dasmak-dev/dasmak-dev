@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dasmak-dev
+- 👀 I’m interested in software dev
+- 🌱 I’m currently learning phyton,angular
+- 💞️ I’m looking to collaborate on whatever.
+- 📫 How to reach me, via twitter MD.
